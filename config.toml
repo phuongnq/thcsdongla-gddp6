@@ -1,0 +1,33 @@
+ignoreFiles = ["content/portfolio/\\.*","content/product/\\.*","content/sketch/\\.*","content/homepage/\\.*","content/post/\\.*","content/\\.*"] # disable example pages as this is a single page
+baseURL = "https://example.com/"
+languageCode = "en-US"
+title = "Kho học liệu số chương trình giáo dục địa phương 6"
+theme = "bootstrap-bp-hugo-startpage"
+# googleAnalytics = "UA-123-45"
+copyright = "Phil Nguyen"
+enableRobotsTXT = true
+pygmentsCodeFences = true
+canonifyurls = true
+paginate = 5
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
+
+[permalinks]
+    posts = "/:year/:month/:slug/"
+    post = "/:year/:month/:slug/"
+    pages = "/:slug/"
+    page = "/:slug/"
+
+[Author]
+  name = "Phil Nguyen"
+
+[params]
+  description = "Kho học liệu số chương trình giáo dục địa phương 6"
+  # images = ["logo.jpg"]
+  startPageColumns = false
+  welcomeText = "Kho học liệu số chương trình"
+  welcomeTextSecond = "giáo dục địa phương 6"
+
+[taxonomies]

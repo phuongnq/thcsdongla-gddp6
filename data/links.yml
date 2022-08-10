@@ -1,0 +1,24 @@
+---
+- group: Lessons
+  items:
+    - title: "Bài 1: Nếp sống \"Văn minh- Thanh lịch\" học sinh Hà Nội"
+      url: https://www.youtube.com/watch?v=tk2cvNbMvmg&mode=theatre
+      icon: fa fa-film
+    - title: "Bài 2: Chương trình địa phương huyện Hoài Đức - Thành phố Hà Nội"
+      url: https://docs.google.com/presentation/d/1KMoCthhk15GorCKli_Mu9rZQsw6OMYVy/edit?usp=sharing&ouid=107901012320958991637&rtpof=true&sd=true
+      icon: fa fa-university
+    - title: "Bài 3: Chương trình văn học địa phương thành phố Hà Nội"
+      url: https://www.youtube.com/watch?v=pfiw8-W6Qyk&mode=theatre
+      icon: fa fa-map
+    - title: "Bài 4: Giáo dục an toàn giao thông"
+      url: https://quizizz.com/admin/quiz/62f071a8585b8e001ea87ab6?source=quiz_page
+      icon: fa fa-car
+    - title: "Bài 5: Giữ gìn và bảo vệ môi trường xung quanh em"
+      url: https://www.youtube.com/watch?v=i7VTH0sC55U&mode=theatre
+      icon: fa fa-globe
+    - title: "Bài 6: Ngoại khóa du lịch qua các cố đô xưa của Hà Nội"
+      url: https://www.youtube.com/watch?v=vvJmbtgFvW0&mode=theatre
+      icon: fab fa-confluence
+    - title: "Bài 7: Di sản văn hóa thành phố Hà Nội"
+      url: https://docs.google.com/presentation/d/12iPqIukF0A99iwDSL2eBY_0S8VZzWkLU/edit?usp=sharing&ouid=107901012320958991637&rtpof=true&sd=true
+      icon: fab fa-d-and-d
