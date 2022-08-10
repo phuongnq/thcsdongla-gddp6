@@ -1,5 +1,5 @@
 ignoreFiles = ["content/portfolio/\\.*","content/product/\\.*","content/sketch/\\.*","content/homepage/\\.*","content/post/\\.*","content/\\.*"] # disable example pages as this is a single page
-baseURL = "https://example.com/"
+baseURL = "https://khohoclieuso-thcsdongla.netlify.app/"
 languageCode = "en-US"
 title = "Kho học liệu số chương trình giáo dục địa phương 6"
 theme = "bootstrap-bp-hugo-startpage"
